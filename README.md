@@ -1,4 +1,34 @@
- GlucideCalc - Prima mea aplicație Android
+Official Store: Google Play Store - CarbCalculator:
+https://play.google.com/store/apps/details?id=com.peteanionelsorin.carbcalculator
+
+The main application logic is handled in MainActivity.kt (UI layout defined via XML):
+https://github.com/petean968/CarbCalculator/blob/main/selapela/src/main/java/com/example/carbcalculator/MainActivity.kt
+
+
+CarbCalculator — My First Android Application
+
+This is my very first project developed in Android Studio using Kotlin.
+
+Project Origin The project started as a learning exercise based on a "Tip Calculator" tutorial. 
+While the mathematical structure is similar, I refactored and adapted the entire logic to serve 
+a much more practical need: rapid carbohydrate calculation for people who need to rigorously 
+monitor their nutrition (e.g., diabetics or athletes).
+
+What I learned while building this project: UI/UX Design: I customized the visual elements to fit 
+the nutritional context. Android Components: Using EditText for input, SeekBar for percentage 
+selection, and TextView for displaying real-time results. Kotlin Logic: Implementing a reactive 
+calculation system that updates instantly whenever the input changes. Data Safety: Handling input 
+errors (empty fields or invalid characters) to prevent the app from crashing.
+
+How it works:
+
+The user enters the food weight in grams.
+
+The user selects the carbohydrate percentage for that specific food using the slider (SeekBar).
+
+The application instantly displays the net amount of carbohydrates to be consumed.
+
+CarbCalculator - Prima mea aplicație Android
 
 Acesta este primul meu proiect dezvoltat în Android Studio folosind Kotlin.
 
