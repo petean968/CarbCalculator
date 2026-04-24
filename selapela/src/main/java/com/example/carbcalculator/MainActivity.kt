@@ -9,6 +9,7 @@
 //TextView → afișare text.
 //round → pentru a rotunji valorile.
 
+
 package com.example.carbcalculator
 
 import androidx.appcompat.app.AppCompatActivity
@@ -19,6 +20,8 @@ import android.widget.EditText
 import android.widget.SeekBar
 import android.widget.TextView
 import kotlin.math.round
+import android.content.Intent
+import android.widget.Button
 
 class MainActivity : AppCompatActivity() {
     private lateinit var etGreutateAliment: EditText      // Câmpul pentru greutatea alimentului
@@ -79,6 +82,12 @@ class MainActivity : AppCompatActivity() {
                 computeTotalCarb()  // Calculează cantitatea totală de carbohidrați
             }
         })
+        val btnNext = findViewById<Button>(R.id.btnNext)
+
+        btnNext.setOnClickListener {
+            val intent = Intent(this, SecondActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     //Logica calculului carbohidraților
