@@ -1,0 +1,1624 @@
+[
+  {
+    "id": "milk_cow",
+    "glucide_100g": 4.8,
+    "names": {
+      "ro": ["lapte de vaca", "lapte vaca"],
+      "en": ["cow milk", "milk"]
+    }
+  },
+  {
+    "id": "milk_cow_std",
+    "glucide_100g": 4.9,
+    "names": {
+      "ro": ["lapte de vaca normalizat", "lapte normalizat"],
+      "en": ["standardized cow milk", "regular milk"]
+    }
+  },
+  {
+    "id": "milk_skimmed",
+    "glucide_100g": 5.0,
+    "names": {
+      "ro": ["lapte smantanit", "lapte degresat"],
+      "en": ["skimmed milk", "fat free milk"]
+    }
+  },
+  {
+    "id": "milk_buffalo",
+    "glucide_100g": 4.9,
+    "names": {
+      "ro": ["lapte de bivolita", "lapte bivolita"],
+      "en": ["buffalo milk"]
+    }
+  },
+  {
+    "id": "buttermilk_whole",
+    "glucide_100g": 3.9,
+    "names": {
+      "ro": ["lapte batut integral", "lapte batut"],
+      "en": ["whole buttermilk", "buttermilk"]
+    }
+  },
+  {
+    "id": "buttermilk_skimmed",
+    "glucide_100g": 4.0,
+    "names": {
+      "ro": ["lapte batut smantanit", "lapte batut slab"],
+      "en": ["skimmed buttermilk", "low fat buttermilk"]
+    }
+  },
+  {
+    "id": "yogurt_fat",
+    "glucide_100g": 3.0,
+    "names": {
+      "ro": ["iaurt gras", "iaurt"],
+      "en": ["full fat yogurt", "yogurt"]
+    }
+  },
+  {
+    "id": "yogurt_lean",
+    "glucide_100g": 3.9,
+    "names": {
+      "ro": ["iaurt slab", "iaurt degresat"],
+      "en": ["low fat yogurt", "slim yogurt"]
+    }
+  },
+  {
+    "id": "milk_powder",
+    "glucide_100g": 40.0,
+    "names": {
+      "ro": ["lapte praf"],
+      "en": ["powdered milk", "milk powder"]
+    }
+  },
+  {
+    "id": "cheese_cow_fat",
+    "glucide_100g": 4.5,
+    "names": {
+      "ro": ["branza grasa de vaca", "branza vaca"],
+      "en": ["fatty cow cheese", "cottage cheese"]
+    }
+  },
+  {
+    "id": "cheese_cow_lean",
+    "glucide_100g": 4.0,
+    "names": {
+      "ro": ["branza slaba de vaca", "branza slaba"],
+      "en": ["lean cow cheese", "low fat cottage cheese"]
+    }
+  },
+  {
+    "id": "cheese_urda",
+    "glucide_100g": 6.0,
+    "names": {
+      "ro": ["urda"],
+      "en": ["urda", "whey cheese"]
+    }
+  },
+  {
+    "id": "cheese_burduf",
+    "glucide_100g": 0.5,
+    "names": {
+      "ro": ["branza de burduf", "burduf"],
+      "en": ["burduf cheese", "kneaded cheese"]
+    }
+  },
+  {
+    "id": "telemea_sheep",
+    "glucide_100g": 1.0,
+    "names": {
+      "ro": ["telemea de oaie", "telemea oaie"],
+      "en": ["sheep telemea", "sheep cheese"]
+    }
+  },
+  {
+    "id": "telemea_cow",
+    "glucide_100g": 1.0,
+    "names": {
+      "ro": ["telemea de vaca", "telemea vaca"],
+      "en": ["cow telemea", "cow feta"]
+    }
+  },
+  {
+    "id": "cheese_hard",
+    "glucide_100g": 1.0,
+    "names": {
+      "ro": ["cascaval"],
+      "en": ["cascaval", "yellow cheese"]
+    }
+  },
+  {
+    "id": "cheese_swiss",
+    "glucide_100g": 0.5,
+    "names": {
+      "ro": ["svaiter", "schweizer"],
+      "en": ["swiss cheese", "emmental"]
+    }
+  },
+  {
+    "id": "cheese_processed",
+    "glucide_100g": 0.2,
+    "names": {
+      "ro": ["branza topita"],
+      "en": ["processed cheese"]
+    }
+  },
+  {
+    "id": "meat_beef",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de vaca", "carne vita"],
+      "en": ["beef", "cow meat"]
+    }
+  },
+  {
+    "id": "meat_veal",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de vitel", "vitel"],
+      "en": ["veal", "calf meat"]
+    }
+  },
+  {
+    "id": "meat_pork",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de porc", "porc"],
+      "en": ["pork", "pig meat"]
+    }
+  },
+  {
+    "id": "meat_mutton",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de oaie", "oaie"],
+      "en": ["mutton", "sheep meat"]
+    }
+  },
+  {
+    "id": "meat_lamb",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de miel", "miel"],
+      "en": ["lamb", "lamb meat"]
+    }
+  },
+  {
+    "id": "meat_chicken",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de gaina", "pui"],
+      "en": ["chicken", "hen meat"]
+    }
+  },
+  {
+    "id": "meat_turkey",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de curca", "curcan"],
+      "en": ["turkey", "turkey meat"]
+    }
+  },
+  {
+    "id": "meat_goose",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de gasca", "gasca"],
+      "en": ["goose", "goose meat"]
+    }
+  },
+  {
+    "id": "meat_duck",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de rata", "rata"],
+      "en": ["duck", "duck meat"]
+    }
+  },
+  {
+    "id": "meat_horse",
+    "glucide_100g": 0.9,
+    "names": {
+      "ro": ["carne de cal", "cal"],
+      "en": ["horse meat"]
+    }
+  },
+  {
+    "id": "meat_venison",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de caprioara", "vanat"],
+      "en": ["venison", "deer meat"]
+    }
+  },
+  {
+    "id": "meat_rabbit_boar",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["carne de iepure", "mistret"],
+      "en": ["rabbit meat", "wild boar"]
+    }
+  },
+  {
+    "id": "offal_brain",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["creier de bovine", "creier"],
+      "en": ["beef brain", "brain"]
+    }
+  },
+  {
+    "id": "offal_liver_beef",
+    "glucide_100g": 4.0,
+    "names": {
+      "ro": ["ficat de bovine", "ficat vita"],
+      "en": ["beef liver"]
+    }
+  },
+  {
+    "id": "offal_liver_pork",
+    "glucide_100g": 3.0,
+    "names": {
+      "ro": ["ficat de porc", "ficat"],
+      "en": ["pork liver"]
+    }
+  },
+  {
+    "id": "offal_tongue",
+    "glucide_100g": 0.4,
+    "names": {
+      "ro": ["limba de bovine", "limba"],
+      "en": ["beef tongue", "tongue"]
+    }
+  },
+  {
+    "id": "offal_kidney",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["rinichi"],
+      "en": ["kidneys"]
+    }
+  },
+  {
+    "id": "offal_heart",
+    "glucide_100g": 0.8,
+    "names": {
+      "ro": ["inima de bovine", "inima"],
+      "en": ["beef heart", "heart"]
+    }
+  },
+  {
+    "id": "cold_cuts_mix",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["mezeluri", "salam", "sunca", "parizer"],
+      "en": ["cold cuts", "salami", "ham"]
+    }
+  },
+  {
+    "id": "meat_lebervurst",
+    "glucide_100g": 0.7,
+    "names": {
+      "ro": ["lebervurst", "leber"],
+      "en": ["liverwurst", "leberwurst"]
+    }
+  },
+  {
+    "id": "pate_liver",
+    "glucide_100g": 0.95,
+    "names": {
+      "ro": ["pate de ficat", "pate"],
+      "en": ["liver pate", "pate"]
+    }
+  },
+  {
+    "id": "dish_pork_beans",
+    "glucide_100g": 19.0,
+    "names": {
+      "ro": ["carne de porc cu fasole boabe", "fasole cu porc"],
+      "en": ["pork with beans"]
+    }
+  },
+  {
+    "id": "dish_pork_peas",
+    "glucide_100g": 10.0,
+    "names": {
+      "ro": ["carne de porc cu mazare", "mazare cu porc"],
+      "en": ["pork with peas"]
+    }
+  },
+  {
+    "id": "dish_beef_beans",
+    "glucide_100g": 9.4,
+    "names": {
+      "ro": ["carne de vita cu fasole", "fasole cu vita"],
+      "en": ["beef with beans"]
+    }
+  },
+  {
+    "id": "fish_fresh",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["peste proaspat", "crap", "salau", "stiuca"],
+      "en": ["fresh fish", "carp", "perch", "pike"]
+    }
+  },
+  {
+    "id": "fish_mackerel_oil",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["stavrizi in ulei"],
+      "en": ["mackerel in oil"]
+    }
+  },
+  {
+    "id": "fish_carp_tomato",
+    "glucide_100g": 2.8,
+    "names": {
+      "ro": ["crap in sos tomat"],
+      "en": ["carp in tomato sauce"]
+    }
+  },
+  {
+    "id": "fish_pike_tomato",
+    "glucide_100g": 2.8,
+    "names": {
+      "ro": ["stiuca in sos tomat"],
+      "en": ["pike in tomato sauce"]
+    }
+  },
+  {
+    "id": "roe_carp",
+    "glucide_100g": 2.8,
+    "names": {
+      "ro": ["icre de carp", "icre"],
+      "en": ["carp roe"]
+    }
+  },
+  {
+    "id": "roe_pike",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["icre de stiuca"],
+      "en": ["pike roe"]
+    }
+  },
+  {
+    "id": "roe_caviar",
+    "glucide_100g": 0.0,
+    "names": {
+      "ro": ["icre negre", "manciuria", "caviar"],
+      "en": ["black caviar", "caviar"]
+    }
+  },
+  {
+    "id": "egg_whole",
+    "glucide_100g": 0.6,
+    "names": {
+      "ro": ["ou de gaina integral", "ou"],
+      "en": ["whole chicken egg", "egg"]
+    }
+  },
+  {
+      "id": "egg_yolk",
+      "glucide_100g": 0.3,
+      "names": {
+        "ro": ["galbenus"],
+        "en": ["egg yolk", "yolk"]
+      }
+    },
+    {
+      "id": "egg_white",
+      "glucide_100g": 0.5,
+      "names": {
+        "ro": ["albus"],
+        "en": ["egg white", "albumen"]
+      }
+    },
+    {
+      "id": "egg_powder",
+      "glucide_100g": 1.8,
+      "names": {
+        "ro": ["praf de ou integral", "praf de oua"],
+        "en": ["whole egg powder"]
+      }
+    },
+    {
+      "id": "veg_endive",
+      "glucide_100g": 3.2,
+      "names": {
+        "ro": ["andive"],
+        "en": ["endives", "chicory"]
+      }
+    },
+    {
+      "id": "veg_artichoke",
+      "glucide_100g": 7.5,
+      "names": {
+        "ro": ["anghinare"],
+        "en": ["artichoke"]
+      }
+    },
+    {
+      "id": "veg_pepper_green",
+      "glucide_100g": 4.6,
+      "names": {
+        "ro": ["ardei gras verde", "ardei verde"],
+        "en": ["green bell pepper", "green pepper"]
+      }
+    },
+    {
+      "id": "veg_pepper_red",
+      "glucide_100g": 7.3,
+      "names": {
+        "ro": ["ardei gras rosu", "ardei rosu", "kapia"],
+        "en": ["red bell pepper", "red pepper"]
+      }
+    },
+    {
+      "id": "veg_potato_new",
+      "glucide_100g": 17.4,
+      "names": {
+        "ro": ["cartofi noi"],
+        "en": ["new potatoes"]
+      }
+    },
+    {
+      "id": "veg_potato_mature",
+      "glucide_100g": 19.1,
+      "names": {
+        "ro": ["cartofi maturi", "cartofi"],
+        "en": ["mature potatoes", "potatoes"]
+      }
+    },
+    {
+      "id": "veg_cucumber",
+      "glucide_100g": 2.9,
+      "names": {
+        "ro": ["castraveti", "castravete"],
+        "en": ["cucumbers", "cucumber"]
+      }
+    },
+    {
+      "id": "veg_onion_green",
+      "glucide_100g": 8.5,
+      "names": {
+        "ro": ["ceapa verde"],
+        "en": ["green onions", "scallions"]
+      }
+    },
+    {
+      "id": "veg_onion_dry",
+      "glucide_100g": 10.5,
+      "names": {
+        "ro": ["ceapa uscata", "ceapa"],
+        "en": ["dry onions", "onion"]
+      }
+    },
+    {
+      "id": "veg_mushroom",
+      "glucide_100g": 2.5,
+      "names": {
+        "ro": ["ciuperci"],
+        "en": ["mushrooms"]
+      }
+    },
+    {
+      "id": "veg_cauliflower",
+      "glucide_100g": 3.9,
+      "names": {
+        "ro": ["conopida"],
+        "en": ["cauliflower"]
+      }
+    },
+    {
+      "id": "veg_zucchini",
+      "glucide_100g": 3.2,
+      "names": {
+        "ro": ["dovlecei", "dovlecel"],
+        "en": ["zucchini", "courgette"]
+      }
+    },
+    {
+      "id": "veg_green_beans",
+      "glucide_100g": 5.7,
+      "names": {
+        "ro": ["fasole verde", "teci"],
+        "en": ["green beans", "string beans"]
+      }
+    },
+    {
+      "id": "veg_kohlrabi",
+      "glucide_100g": 6.0,
+      "names": {
+        "ro": ["gulii", "gulie"],
+        "en": ["kohlrabi"]
+      }
+    },
+    {
+      "id": "veg_horseradish",
+      "glucide_100g": 17.2,
+      "names": {
+        "ro": ["hrean"],
+        "en": ["horseradish"]
+      }
+    },
+    {
+      "id": "veg_orach",
+      "glucide_100g": 1.4,
+      "names": {
+        "ro": ["loboda"],
+        "en": ["orach", "mountain spinach"]
+      }
+    },
+    {
+      "id": "veg_peas_green",
+      "glucide_100g": 14.0,
+      "names": {
+        "ro": ["mazare verde boabe", "mazare verde"],
+        "en": ["green peas", "garden peas"]
+      }
+    },
+    {
+      "id": "veg_dill",
+      "glucide_100g": 5.6,
+      "names": {
+        "ro": ["marar", "frunze marar"],
+        "en": ["dill", "dill leaves"]
+      }
+    },
+    {
+      "id": "veg_carrot",
+      "glucide_100g": 8.8,
+      "names": {
+        "ro": ["morcov"],
+        "en": ["carrot"]
+      }
+    },
+    {
+      "id": "veg_parsnip",
+      "glucide_100g": 15.0,
+      "names": {
+        "ro": ["pastarnac"],
+        "en": ["parsnip"]
+      }
+    },
+    {
+      "id": "veg_parsley_leaves",
+      "glucide_100g": 6.6,
+      "names": {
+        "ro": ["patrunjel frunze", "patrunjel"],
+        "en": ["parsley leaves"]
+      }
+    },
+    {
+      "id": "veg_parsley_root",
+      "glucide_100g": 10.0,
+      "names": {
+        "ro": ["patrunjel radacina", "radacina patrunjel"],
+        "en": ["parsley root"]
+      }
+    },
+    {
+      "id": "veg_leek",
+      "glucide_100g": 9.9,
+      "names": {
+        "ro": ["praz"],
+        "en": ["leek"]
+      }
+    },
+    {
+      "id": "veg_tomato",
+      "glucide_100g": 4.3,
+      "names": {
+        "ro": ["rosii", "rosie", "tomate"],
+        "en": ["tomatoes", "tomato"]
+      }
+    },
+    {
+      "id": "veg_radish_month",
+      "glucide_100g": 3.8,
+      "names": {
+        "ro": ["ridichi de luna", "ridichi rosii"],
+        "en": ["radishes", "small radishes"]
+      }
+    },
+    {
+      "id": "veg_radish_winter",
+      "glucide_100g": 4.9,
+      "names": {
+        "ro": ["ridichi de iarna", "ridiche neagra"],
+        "en": ["winter radishes", "black radish"]
+      }
+    },
+    {
+      "id": "veg_lettuce",
+      "glucide_100g": 2.9,
+      "names": {
+        "ro": ["salata verde", "salata"],
+        "en": ["lettuce", "green salad"]
+      }
+    },
+    {
+      "id": "veg_beetroot",
+      "glucide_100g": 9.0,
+      "names": {
+        "ro": ["sfecla rosie", "sfecla"],
+        "en": ["beetroot", "red beet"]
+      }
+    },
+    {
+      "id": "veg_spinach",
+      "glucide_100g": 2.0,
+      "names": {
+        "ro": ["spanac"],
+        "en": ["spinach"]
+      }
+    },
+    {
+      "id": "veg_asparagus",
+      "glucide_100g": 2.6,
+      "names": {
+        "ro": ["sparanghel"],
+        "en": ["asparagus"]
+      }
+    },
+    {
+      "id": "veg_sorrel",
+      "glucide_100g": 5.7,
+      "names": {
+        "ro": ["stevie"],
+        "en": ["sorrel", "stevia"]
+      }
+    },
+    {
+      "id": "veg_celery_root",
+      "glucide_100g": 5.9,
+      "names": {
+        "ro": ["telina radacina", "telina"],
+        "en": ["celery root", "celeriac"]
+      }
+    },
+    {
+      "id": "veg_nettle",
+      "glucide_100g": 7.1,
+      "names": {
+        "ro": ["urzici"],
+        "en": ["nettles"]
+      }
+    },
+    {
+      "id": "veg_garlic",
+      "glucide_100g": 26.0,
+      "names": {
+        "ro": ["usturoi"],
+        "en": ["garlic"]
+      }
+    },
+    {
+      "id": "veg_cabbage_white",
+      "glucide_100g": 5.8,
+      "names": {
+        "ro": ["varza alba", "varza"],
+        "en": ["white cabbage", "cabbage"]
+      }
+    },
+    {
+      "id": "veg_brussels_sprouts",
+      "glucide_100g": 7.0,
+      "names": {
+        "ro": ["varza Bruxelles"],
+        "en": ["Brussels sprouts"]
+      }
+    },
+    {
+      "id": "veg_cabbage_red",
+      "glucide_100g": 5.6,
+      "names": {
+        "ro": ["varza rosie"],
+        "en": ["red cabbage"]
+      }
+    },
+    {
+      "id": "veg_cauliflower_water",
+      "glucide_100g": 1.5,
+      "names": {
+        "ro": ["conopida in apa"],
+        "en": ["cauliflower in water"]
+      }
+    },
+    {
+      "id": "veg_zucchini_water",
+      "glucide_100g": 2.5,
+      "names": {
+        "ro": ["dovlecei in apa"],
+        "en": ["zucchini in water"]
+      }
+    },
+    {
+      "id": "veg_green_beans_water",
+      "glucide_100g": 2.4,
+      "names": {
+        "ro": ["fasole verde in apa"],
+        "en": ["green beans in water"]
+      }
+    },
+    {
+      "id": "veg_peas_water",
+      "glucide_100g": 8.1,
+      "names": {
+        "ro": ["mazare in apa"],
+        "en": ["peas in water"]
+      }
+    },
+    {
+      "id": "veg_asparagus_water",
+      "glucide_100g": 2.7,
+      "names": {
+        "ro": ["sparanghel in apa"],
+        "en": ["asparagus in water"]
+      }
+    },
+    {
+      "id": "dish_stew_broth",
+      "glucide_100g": 3.8,
+      "names": {
+        "ro": ["ghiveci in bulion", "ghiveci legume"],
+        "en": ["vegetable stew in broth"]
+      }
+    },
+    {
+      "id": "veg_tomato_broth",
+      "glucide_100g": 4.7,
+      "names": {
+        "ro": ["rosii in bulion"],
+        "en": ["tomatoes in broth"]
+      }
+    },
+    {
+      "id": "veg_eggplant_broth",
+      "glucide_100g": 2.5,
+      "names": {
+        "ro": ["vinete in bulion"],
+        "en": ["eggplant in broth"]
+      }
+    },
+    {
+      "id": "dish_stew_oil",
+      "glucide_100g": 3.4,
+      "names": {
+        "ro": ["ghiveci in ulei"],
+        "en": ["vegetable stew in oil"]
+      }
+    },
+    {
+      "id": "dish_veg_ragout",
+      "glucide_100g": 5.5,
+      "names": {
+        "ro": ["tocana de legume", "tocanita"],
+        "en": ["vegetable ragout", "veg stew"]
+      }
+    },
+    {
+      "id": "dish_stuffed_tomatoes",
+      "glucide_100g": 8.4,
+      "names": {
+        "ro": ["tomate umplute cu orez", "rosii umplute"],
+        "en": ["tomatoes stuffed with rice", "stuffed tomatoes"]
+      }
+    },
+    {
+      "id": "dish_stuffed_peppers",
+      "glucide_100g": 8.2,
+      "names": {
+        "ro": ["ardei umpluti cu orez", "ardei umpluti"],
+        "en": ["peppers stuffed with rice", "stuffed peppers"]
+      }
+    },
+    {
+      "id": "dish_eggplant_stuffed",
+      "glucide_100g": 2.4,
+      "names": {
+        "ro": ["vinete impanate"],
+        "en": ["stuffed eggplant"]
+      }
+    },
+    {
+      "id": "juice_tomato",
+      "glucide_100g": 4.6,
+      "names": {
+        "ro": ["suc de tomate", "suc de rosii"],
+        "en": ["tomato juice"]
+      }
+    },
+    {
+      "id": "sauce_tomato_broth",
+      "glucide_100g": 11.6,
+      "names": {
+        "ro": ["bulion de tomate", "bulion"],
+        "en": ["tomato broth", "tomato juice concentrate"]
+      }
+    },
+    {
+      "id": "sauce_tomato_paste",
+      "glucide_100g": 17.6,
+      "names": {
+        "ro": ["pasta de tomate", "pasta rosii"],
+        "en": ["tomato paste"]
+      }
+    },
+    {
+      "id": "veg_pickled_cucumber",
+      "glucide_100g": 3.6,
+      "names": {
+        "ro": ["castraveti murati in otet", "castraveti in otet"],
+        "en": ["pickled cucumbers in vinegar", "pickles"]
+      }
+    },
+    {
+      "id": "veg_sauerkraut",
+      "glucide_100g": 3.3,
+      "names": {
+        "ro": ["varza acra", "varza murata"],
+        "en": ["sauerkraut", "sour cabbage"]
+      }
+    },
+    {
+      "id": "fruit_blueberry",
+      "glucide_100g": 13.9,
+      "names": {
+        "ro": ["afine"],
+        "en": ["blueberries"]
+      }
+    },
+    {
+      "id": "fruit_pineapple",
+      "glucide_100g": 11.9,
+      "names": {
+        "ro": ["ananas"],
+        "en": ["pineapple"]
+      }
+    },
+    {
+      "id": "fruit_banana",
+      "glucide_100g": 13.4,
+      "names": {
+        "ro": ["banane", "banana"],
+        "en": ["bananas", "banana"]
+      }
+    },
+    {
+      "id": "fruit_apricot",
+      "glucide_100g": 12.9,
+      "names": {
+        "ro": ["caise"],
+        "en": ["apricots"]
+      }
+    },
+    {
+      "id": "fruit_apricot_wild",
+      "glucide_100g": 11.5,
+      "names": {
+        "ro": ["caise-zarzare", "zarzare"],
+        "en": ["wild apricots"]
+      }
+    },
+    {
+      "id": "fruit_strawberry",
+      "glucide_100g": 8.2,
+      "names": {
+        "ro": ["capsuni"],
+        "en": ["strawberries"]
+      }
+    },
+    {
+      "id": "fruit_cherry_bitter",
+      "glucide_100g": 17.8,
+      "names": {
+        "ro": ["cirese amare"],
+        "en": ["bitter cherries"]
+      }
+    },
+    {
+      "id": "fruit_cherry",
+      "glucide_100g": 18.3,
+      "names": {
+        "ro": ["cirese"],
+        "en": ["cherries"]
+      }
+    },
+    {
+      "id": "fruit_currant_red",
+      "glucide_100g": 10.2,
+      "names": {
+        "ro": ["coacaze rosii"],
+        "en": ["red currants"]
+      }
+    },
+    {
+      "id": "fruit_currant_black",
+      "glucide_100g": 13.7,
+      "names": {
+        "ro": ["coacaze negre"],
+        "en": ["black currants"]
+      }
+    },
+    {
+      "id": "fruit_cornelian_cherry",
+      "glucide_100g": 16.9,
+      "names": {
+        "ro": ["coarne"],
+        "en": ["cornelian cherries"]
+      }
+    },
+    {
+      "id": "fruit_cherry_plum",
+      "glucide_100g": 10.2,
+      "names": {
+        "ro": ["corcoduse"],
+        "en": ["cherry plums"]
+      }
+    },
+    {
+      "id": "fruit_mulberry",
+      "glucide_100g": 14.5,
+      "names": {
+        "ro": ["dude"],
+        "en": ["mulberries"]
+      }
+    },
+    {
+      "id": "fruit_wild_strawberry",
+      "glucide_100g": 9.8,
+      "names": {
+        "ro": ["fragi de padure", "fragi"],
+        "en": ["wild strawberries"]
+      }
+    },
+    {
+      "id": "fruit_grapefruit",
+      "glucide_100g": 6.5,
+      "names": {
+        "ro": ["grapefruit"],
+        "en": ["grapefruit"]
+      }
+    },
+    {
+      "id": "fruit_quince",
+      "glucide_100g": 14.2,
+      "names": {
+        "ro": ["gutui"],
+        "en": ["quince"]
+      }
+    },
+    {
+      "id": "fruit_lemon",
+      "glucide_100g": 6.2,
+      "names": {
+        "ro": ["lamai", "lamaie"],
+        "en": ["lemons", "lemon"]
+      }
+    },
+    {
+      "id": "fruit_mandarin",
+      "glucide_100g": 8.7,
+      "names": {
+        "ro": ["mandarine", "mandarina"],
+        "en": ["mandarins", "tangerines"]
+      }
+    },
+    {
+      "id": "fruit_rosehip",
+      "glucide_100g": 22.0,
+      "names": {
+        "ro": ["macese"],
+        "en": ["rose hips"]
+      }
+    },
+    {
+      "id": "fruit_apple",
+      "glucide_100g": 15.0,
+      "names": {
+        "ro": ["mere", "mar"],
+        "en": ["apples", "apple"]
+      }
+    },
+    {
+      "id": "fruit_blackberry",
+      "glucide_100g": 12.9,
+      "names": {
+        "ro": ["mure"],
+        "en": ["blackberries"]
+      }
+    },
+    {
+      "id": "fruit_nectarine",
+      "glucide_100g": 12.4,
+      "names": {
+        "ro": ["nectarine", "nectarina"],
+        "en": ["nectarines"]
+      }
+    },
+    {
+      "id": "fruit_melon",
+      "glucide_100g": 12.0,
+      "names": {
+        "ro": ["pepene galben"],
+        "en": ["melon", "cantaloupe"]
+      }
+    },
+    {
+      "id": "fruit_watermelon",
+      "glucide_100g": 5.4,
+      "names": {
+        "ro": ["pepene verde", "lubenita"],
+        "en": ["watermelon"]
+      }
+    },
+    {
+      "id": "fruit_pear",
+      "glucide_100g": 16.0,
+      "names": {
+        "ro": ["pere", "para"],
+        "en": ["pears", "pear"]
+      }
+    },
+    {
+      "id": "fruit_peach",
+      "glucide_100g": 11.6,
+      "names": {
+        "ro": ["piersici", "piersica"],
+        "en": ["peaches", "peach"]
+      }
+    },
+    {
+      "id": "fruit_orange",
+      "glucide_100g": 10.1,
+      "names": {
+        "ro": ["portocale", "portocala"],
+        "en": ["oranges", "orange"]
+      }
+    },
+    {
+      "id": "fruit_plum",
+      "glucide_100g": 14.6,
+      "names": {
+        "ro": ["prune", "pruna"],
+        "en": ["plums", "plum"]
+      }
+    },
+    {
+      "id": "fruit_grape",
+      "glucide_100g": 18.0,
+      "names": {
+        "ro": ["struguri", "strugure"],
+        "en": ["grapes", "grape"]
+      }
+    },
+    {
+      "id": "fruit_sour_cherry",
+      "glucide_100g": 14.0,
+      "names": {
+        "ro": ["visine", "visina"],
+        "en": ["sour cherries", "tart cherries"]
+      }
+    },
+    {
+      "id": "fruit_raspberry",
+      "glucide_100g": 13.0,
+      "names": {
+        "ro": ["zmeura"],
+        "en": ["raspberries", "raspberry"]
+      }
+    },
+    {
+      "id": "fruit_dried_apricot",
+      "glucide_100g": 68.0,
+      "names": {
+        "ro": ["caise uscate"],
+        "en": ["dried apricots"]
+      }
+    },
+    {
+      "id": "fruit_dried_dates",
+      "glucide_100g": 74.0,
+      "names": {
+        "ro": ["curmale uscate cu samburi", "curmale"],
+        "en": ["dried dates with pits", "dates"]
+      }
+    },
+    {
+      "id": "fruit_dried_figs",
+      "glucide_100g": 60.0,
+      "names": {
+        "ro": ["figuri uscate", "smochine uscate", "smochine"],
+        "en": ["dried figs", "figs"]
+      }
+    },
+    {
+      "id": "fruit_dried_apple",
+      "glucide_100g": 56.4,
+      "names": {
+        "ro": ["mere uscate"],
+        "en": ["dried apples"]
+      }
+    },
+    {
+      "id": "fruit_dried_pear",
+      "glucide_100g": 63.3,
+      "names": {
+        "ro": ["pere uscate"],
+        "en": ["dried pears"]
+      }
+    },
+    {
+      "id": "fruit_dried_plum",
+      "glucide_100g": 60.0,
+      "names": {
+        "ro": ["prune uscate cu samburi", "prune uscate"],
+        "en": ["dried plums with pits", "dried plums"]
+      }
+    },
+    {
+      "id": "fruit_raisins",
+      "glucide_100g": 71.0,
+      "names": {
+        "ro": ["stafide"],
+        "en": ["raisins"]
+      }
+    },
+    {
+      "id": "juice_apple",
+      "glucide_100g": 11.6,
+      "names": {
+        "ro": ["suc de mere"],
+        "en": ["apple juice"]
+      }
+    },
+    {
+      "id": "juice_grape",
+      "glucide_100g": 16.0,
+      "names": {
+        "ro": ["suc de struguri"],
+        "en": ["grape juice"]
+      }
+    },
+    {
+      "id": "juice_orange",
+      "glucide_100g": 11.3,
+      "names": {
+        "ro": ["suc de portocale"],
+        "en": ["orange juice"]
+      }
+    },
+    {
+      "id": "compote_apricot",
+      "glucide_100g": 17.6,
+      "names": {
+        "ro": ["compot de caise"],
+        "en": ["apricot compote"]
+      }
+    },
+
+      {
+        "id": "compote_cherry",
+        "glucide_100g": 19.3,
+        "names": {
+          "ro": ["compot de cirese"],
+          "en": ["cherry compote"]
+        }
+      },
+      {
+        "id": "compote_apple",
+        "glucide_100g": 16.8,
+        "names": {
+          "ro": ["compot de mere"],
+          "en": ["apple compote"]
+        }
+      },
+      {
+        "id": "compote_pear",
+        "glucide_100g": 17.3,
+        "names": {
+          "ro": ["compot de pere"],
+          "en": ["pear compote"]
+        }
+      },
+      {
+        "id": "compote_peach",
+        "glucide_100g": 17.5,
+        "names": {
+          "ro": ["compot de piersici"],
+          "en": ["peach compote"]
+        }
+      },
+      {
+        "id": "compote_plum",
+        "glucide_100g": 18.4,
+        "names": {
+          "ro": ["compot de prune"],
+          "en": ["plum compote"]
+        }
+      },
+      {
+        "id": "compote_sour_cherry",
+        "glucide_100g": 19.0,
+        "names": {
+          "ro": ["compot de visine"],
+          "en": ["sour cherry compote"]
+        }
+      },
+      {
+        "id": "legume_beans_dry",
+        "glucide_100g": 45.0,
+        "names": {
+          "ro": ["fasole boabe", "fasole uscata"],
+          "en": ["dry beans", "kidney beans"]
+        }
+      },
+      {
+        "id": "legume_peas_dry",
+        "glucide_100g": 51.5,
+        "names": {
+          "ro": ["mazare uscata"],
+          "en": ["dry peas", "split peas"]
+        }
+      },
+      {
+        "id": "legume_lentils",
+        "glucide_100g": 50.0,
+        "names": {
+          "ro": ["linte"],
+          "en": ["lentils"]
+        }
+      },
+      {
+        "id": "bread_white",
+        "glucide_100g": 51.1,
+        "names": {
+          "ro": ["paine de grau alba", "paine alba"],
+          "en": ["white wheat bread", "white bread"]
+        }
+      },
+      {
+        "id": "bread_intermediate",
+        "glucide_100g": 47.9,
+        "names": {
+          "ro": ["paine de grau intermediara", "paine semialba"],
+          "en": ["intermediate wheat bread", "brown bread"]
+        }
+      },
+      {
+        "id": "bread_black",
+        "glucide_100g": 44.5,
+        "names": {
+          "ro": ["paine de grau neagra", "paine neagra"],
+          "en": ["black wheat bread", "whole wheat bread"]
+        }
+      },
+      {
+        "id": "bread_graham",
+        "glucide_100g": 45.4,
+        "names": {
+          "ro": ["paine graham", "graham"],
+          "en": ["graham bread"]
+        }
+      },
+      {
+        "id": "bread_buns",
+        "glucide_100g": 55.4,
+        "names": {
+          "ro": ["chifle si cornuri simple", "chifle", "cornuri"],
+          "en": ["simple buns and rolls", "buns", "rolls"]
+        }
+      },
+      {
+        "id": "pasta_regular",
+        "glucide_100g": 72.8,
+        "names": {
+          "ro": ["paste fainoase obisnuite", "paste", "macaroane"],
+          "en": ["regular pasta", "macaroni", "spaghetti"]
+        }
+      },
+      {
+        "id": "pasta_egg",
+        "glucide_100g": 72.2,
+        "names": {
+          "ro": ["paste fainoase cu ou", "taitei cu ou"],
+          "en": ["egg pasta", "egg noodles"]
+        }
+      },
+      {
+        "id": "flour_wheat",
+        "glucide_100g": 73.0,
+        "names": {
+          "ro": ["faina de grau", "faina"],
+          "en": ["wheat flour", "flour"]
+        }
+      },
+      {
+        "id": "flour_corn",
+        "glucide_100g": 71.0,
+        "names": {
+          "ro": ["faina de porumb", "malai"],
+          "en": ["cornmeal", "maize flour"]
+        }
+      },
+      {
+        "id": "grain_semolina",
+        "glucide_100g": 74.0,
+        "names": {
+          "ro": ["gris"],
+          "en": ["semolina"]
+        }
+      },
+      {
+        "id": "grain_rice",
+        "glucide_100g": 76.5,
+        "names": {
+          "ro": ["orez decorticat", "orez"],
+          "en": ["hulled rice", "rice"]
+        }
+      },
+      {
+        "id": "snack_biscuits",
+        "glucide_100g": 75.0,
+        "names": {
+          "ro": ["amoniac", "biscuiti simpli", "biscuiti"],
+          "en": ["ammonia biscuits", "plain biscuits"]
+        }
+      },
+      {
+        "id": "nut_hazelnut",
+        "glucide_100g": 12.0,
+        "names": {
+          "ro": ["alune", "alune de padure"],
+          "en": ["hazelnuts"]
+        }
+      },
+      {
+        "id": "nut_peanut",
+        "glucide_100g": 13.0,
+        "names": {
+          "ro": ["arahide", "alune americane"],
+          "en": ["peanuts"]
+        }
+      },
+      {
+        "id": "nut_chestnut",
+        "glucide_100g": 40.0,
+        "names": {
+          "ro": ["castane coapte", "castane"],
+          "en": ["roasted chestnuts", "chestnuts"]
+        }
+      },
+      {
+        "id": "nut_almond",
+        "glucide_100g": 15.0,
+        "names": {
+          "ro": ["migdale"],
+          "en": ["almonds"]
+        }
+      },
+      {
+        "id": "nut_walnut",
+        "glucide_100g": 3.4,
+        "names": {
+          "ro": ["nuci", "miez de nuca"],
+          "en": ["walnuts"]
+        }
+      },
+      {
+        "id": "sweet_sugar",
+        "glucide_100g": 99.9,
+        "names": {
+          "ro": ["zahar", "zahar alb"],
+          "en": ["sugar", "white sugar"]
+        }
+      },
+      {
+        "id": "sweet_candy_filled",
+        "glucide_100g": 91.0,
+        "names": {
+          "ro": ["bomboane umplute", "bomboane"],
+          "en": ["filled candies", "hard candy"]
+        }
+      },
+      {
+        "id": "sweet_caramel",
+        "glucide_100g": 81.0,
+        "names": {
+          "ro": ["caramele"],
+          "en": ["caramels", "toffee"]
+        }
+      },
+      {
+        "id": "sweet_chocolate_cooking",
+        "glucide_100g": 54.0,
+        "names": {
+          "ro": ["ciocolata menaj", "ciocolata gatit"],
+          "en": ["cooking chocolate", "dark chocolate"]
+        }
+      },
+      {
+        "id": "sweet_chocolate_milk",
+        "glucide_100g": 55.4,
+        "names": {
+          "ro": ["ciocolata cu lapte"],
+          "en": ["milk chocolate"]
+        }
+      },
+      {
+        "id": "sweet_dulceata",
+        "glucide_100g": 70.2,
+        "names": {
+          "ro": ["dulceata"],
+          "en": ["fruit preserve", "dulceata"]
+        }
+      },
+      {
+        "id": "sweet_jam",
+        "glucide_100g": 54.0,
+        "names": {
+          "ro": ["gemuri", "gem"],
+          "en": ["jams", "jam"]
+        }
+      },
+      {
+        "id": "sweet_halva",
+        "glucide_100g": 43.5,
+        "names": {
+          "ro": ["halva"],
+          "en": ["halva"]
+        }
+      },
+      {
+        "id": "sweet_honey",
+        "glucide_100g": 80.0,
+        "names": {
+          "ro": ["miere de albine", "miere"],
+          "en": ["honey", "bee honey"]
+        }
+      },
+      {
+        "id": "sweet_magun",
+        "glucide_100g": 55.0,
+        "names": {
+          "ro": ["magun de prune", "magun", "topoloven"],
+          "en": ["plum butter", "magun"]
+        }
+      },
+      {
+        "id": "sweet_rahat",
+        "glucide_100g": 80.0,
+        "names": {
+          "ro": ["rahat"],
+          "en": ["turkish delight"]
+        }
+      },
+      {
+        "id": "sweet_sherbet",
+        "glucide_100g": 81.0,
+        "names": {
+          "ro": ["serbet"],
+          "en": ["sherbet"]
+        }
+      },
+      {
+        "id": "fat_butter",
+        "glucide_100g": 0.5,
+        "names": {
+          "ro": ["unt"],
+          "en": ["butter"]
+        }
+      },
+      {
+        "id": "fat_margarine",
+        "glucide_100g": 0.0,
+        "names": {
+          "ro": ["margarina"],
+          "en": ["margarine"]
+        }
+      },
+      {
+        "id": "fat_oil",
+        "glucide_100g": 0.0,
+        "names": {
+          "ro": ["uleiuri vegetale", "ulei"],
+          "en": ["vegetable oils", "oil"]
+        }
+      },
+      {
+        "id": "fat_lard",
+        "glucide_100g": 0.0,
+        "names": {
+          "ro": ["untura", "slanina"],
+          "en": ["lard", "bacon fat"]
+        }
+      },
+      {
+        "id": "drink_beer",
+        "glucide_100g": 3.4,
+        "names": {
+          "ro": ["bere"],
+          "en": ["beer"]
+        }
+      },
+      {
+        "id": "drink_wine_dry",
+        "glucide_100g": 0.2,
+        "names": {
+          "ro": ["vin alb sec", "vin sec"],
+          "en": ["dry white wine", "dry wine"]
+        }
+      },
+      {
+        "id": "drink_wine_red",
+        "glucide_100g": 0.2,
+        "names": {
+          "ro": ["vin rosu"],
+          "en": ["red wine"]
+        }
+      },
+      {
+        "id": "drink_wine_sweet",
+        "glucide_100g": 4.5,
+        "names": {
+          "ro": ["vin dulce"],
+          "en": ["sweet wine"]
+        }
+      },
+      {
+        "id": "drink_spirits",
+        "glucide_100g": 0.0,
+        "names": {
+          "ro": ["tuica", "bauturi spirtoase", "rachiu"],
+          "en": ["plum brandy", "spirits", "liquor"]
+        }
+      },
+      {
+        "id": "veg_pickles_brine",
+        "glucide_100g": 2.0,
+        "names": {
+          "ro": ["muraturi in saramura", "muraturi"],
+          "en": ["pickles in brine"]
+        }
+      },
+      {
+        "id": "condiment_vinegar",
+        "glucide_100g": 0.0,
+        "names": {
+          "ro": ["otet de vin", "otet"],
+          "en": ["wine vinegar", "vinegar"]
+        }
+      },
+      {
+        "id": "condiment_yeast",
+        "glucide_100g": 7.3,
+        "names": {
+          "ro": ["drojdie de bere proaspata", "drojdie"],
+          "en": ["fresh brewer's yeast", "yeast"]
+        }
+      },
+      {
+        "id": "condiment_mustard",
+        "glucide_100g": 6.5,
+        "names": {
+          "ro": ["mustar"],
+          "en": ["mustard"]
+        }
+      },
+      {
+        "id": "fruit_olive",
+        "glucide_100g": 1.0,
+        "names": {
+          "ro": ["masline"],
+          "en": ["olives"]
+        }
+      }
+  ]
+
+
+
+
+
